@@ -19,7 +19,8 @@ http://www.tooplate.com/view/2100-artist
 
 -->
 
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"> 
+
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="author" content="Tooplate">
