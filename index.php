@@ -65,6 +65,7 @@ http://www.tooplate.com/view/2100-artist
 </div>
 
 
+
 <!-- ABOUT SECTION -->
 <section id="about" class="parallax-section">
      <div class="container">
