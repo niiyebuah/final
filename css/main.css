@@ -1,0 +1,13 @@
+img.hero.main{
+    width: 300px;
+    height: 300px;
+}
+
+.main-form{
+    width: 450px;
+    margin: auto;    
+}
+.main-form button{
+    width: 120px;
+    margin-left: 200px;
+}
