@@ -8,7 +8,6 @@ include_once 'header.php'
 <head>
 
 <meta charset="UTF-8">
-
 <title>ADOM JEWELLERY</title>
 
 <!--
